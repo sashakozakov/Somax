@@ -1307,8 +1307,8 @@ ul.ul_list > li {
   margin: 0;
 }
 
-/***********************
-*/
+
+/* Section what-we-do */
 .what-we-do .category_container {
   padding-top: 0 !important;
   padding-bottom: 0 !important;
@@ -1370,6 +1370,7 @@ ul.ul_list > li {
 }
 
 
+/* Section for-whom */
 .for-whom {
   background: #F6F6F6;
   box-shadow: 0 0 2px rgba(0, 0, 0, 0.57);
@@ -1420,11 +1421,7 @@ ul.ul_list > li {
   }
 }
 
-
-
-
-
-
+/* Section what-give */
 .what-give {
   padding: 60px 0;
 }
@@ -1439,12 +1436,6 @@ ul.ul_list > li {
   font-weight: 700;
   padding-bottom: 40px;
 }
-
-
-
-
-
-
 
 .container-img {
     margin-bottom: 30px;
